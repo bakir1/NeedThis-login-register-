@@ -2,19 +2,32 @@
 
 Project Name: "NeedThis"
 
+
 -Register -Login -Navigation
+
 --User name --user photo
+
 --User email -- email ---User photo
+
 --password -- password ---User name
+
 --confirm password --login button ---User email
+
 --register button
 
+
 --In navigation user will also have:
+
 ----Buttons
+
 -----Home
+
 -----Liked Staff
+
 -----Public Deal
+
 -----Settings
+
 -----Log out
 
 User can post his/her "needs" post where share with other users what the user need.
