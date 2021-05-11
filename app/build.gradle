@@ -36,6 +36,10 @@ dependencies {
 
     //firebase
     implementation platform('com.google.firebase:firebase-bom:27.1.0')
+    //firebase auth
+    implementation 'com.google.firebase:firebase-auth'
+    //firebase storage
+    implementation 'com.google.firebase:firebase-storage'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
